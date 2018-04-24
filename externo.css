@@ -184,6 +184,6 @@
     display: block;
     padding: 8px 0;
 }
-#textocinza hover{
+#textocinza:hover{
 	color:#fff;
 }
